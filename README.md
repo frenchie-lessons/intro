@@ -50,3 +50,8 @@ Technically on stock MacOS, you interact with the `bash` terminal through the `T
 You could use the `zsh` shell in Terminal. You can use the `bash` shell in `iTerm`. 
 
 Using `iTerm` with `zsh` with the zsh agnoster theme is just my preference. Feel free to play around.
+
+There *technically* is a difference between shells, and console/terminals, and even the difference between consoles and terminals.
+But it really doesn't matter right now. Wikipedia is there if you want to learn the difference, but don't sweat it.
+
+I was in the industry with a few promotions under my belt before I even figured out what the difference was, hahaha.
